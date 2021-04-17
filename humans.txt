@@ -14,9 +14,7 @@ devops
 
     HTML5, CSS3
     jQuery, Modernizr
-docker and java
-
-aws cloud and some more '
+this was develop
 
 
 # karthick raja 
