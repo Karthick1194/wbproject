@@ -16,4 +16,7 @@ devops
     jQuery, Modernizr
 docker and java
 
+aws cloud and some more '
+
+
 # karthick raja 
