@@ -16,9 +16,13 @@ devops
     jQuery, Modernizr
 
 
+
 docker and java
 
 aws cloud and some more  this was 
+this was develop
+
+=======
 this was develop
 
 =======
